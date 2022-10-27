@@ -11,7 +11,7 @@ function Sale(){
     return(
         <div>
             <div>
-                <IMG scr="picture/pictures/salle.jpg" ></IMG>
+                <IMG scr="./pictures/salle.jpg" ></IMG>
                 <P2>Sale Item</P2>
                 <P3><del>$50.00</del>$25.00</P3>
                 <BUTTON>add to cart</BUTTON>
